@@ -7,4 +7,4 @@ This repo resolves [an issue over at the iohook repo](https://github.com/WilixLe
 ## Steps to follow
 
 1. Download and extract the electron and node prebuilds.
-2. Replace the build files for node and electron win32 ia32 in your projects node modules folder (node_modules/iohook/builds)
+2. Replace the build files for node and electron win32 ia32 in your project's node modules folder (node_modules/iohook/builds)
